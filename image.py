@@ -5,7 +5,7 @@ import time
 
 cam = cv2.VideoCapture(0)
 path = '/assets/'
-cv2.namedWindow("Pythonnnnnnnnnnnnnn")
+cv2.namedWindow("Python")
 
 def doc():
     img_counter = 0
